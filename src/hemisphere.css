@@ -1,0 +1,17 @@
+.northern{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #EE82EE;
+}
+
+.southern{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #7FFFD4;
+}
+img{
+    width: 25%;
+    height: 25%;
+}
